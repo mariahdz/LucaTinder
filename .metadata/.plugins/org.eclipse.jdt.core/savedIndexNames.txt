@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\María\Desktop\Proyecto_LucaTinder\.metadata\.plugins\org.eclipse.jdt.core
+1400640981.index
+2056852743.index
+1378773661.index
+3373681744.index
